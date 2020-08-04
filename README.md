@@ -1,1 +1,1 @@
-# New york city - Cab fare pediction
+# New york city - Taxi fare pediction
